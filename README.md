@@ -104,7 +104,7 @@ screen sharing, the same as the real corners of the glass.
 
 Measured on a MacBook Air (M3) running macOS 27.
 
-| | |
+| | Measured |
 |---|---|
 | Memory | ~12 MB |
 | CPU while idle | 0.0 % |
